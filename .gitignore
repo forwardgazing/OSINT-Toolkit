@@ -1,0 +1,16 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Файлы IDE (PyCharm, VS Code)
+.vscode/
+.idea/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
